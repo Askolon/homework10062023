@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+#root{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+div{
+    gap: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+a{
+    text-decoration: none;
+    font-style: oblique;
+    color: green;
+    font-size: 18px;
+}
